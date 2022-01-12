@@ -1,0 +1,9 @@
+name: scraping
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyterlab
+  - selenium
+  - beautifulsoup4
