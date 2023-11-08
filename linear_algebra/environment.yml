@@ -1,0 +1,6 @@
+name: linear_algebra
+dependencies:
+  - python=3.9
+  - numpy
+  - matplotlib
+  - pillow

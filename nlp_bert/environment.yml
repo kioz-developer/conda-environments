@@ -1,0 +1,9 @@
+name: nlp_bert
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.9
+  - transformers
+  - pytorch
+  - jupyterlab

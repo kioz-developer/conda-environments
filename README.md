@@ -1,5 +1,5 @@
 
-### basic jupyter environment to data analysis
+### basic conda environment to data analysis
 
 
 #### Create
@@ -12,7 +12,39 @@
 > jupyter notebook
 
 
-### basic jupyter environment to webscraping
+
+
+### basic conda environment for linear algebra
+
+
+#### Create
+> conda env create -f linear_algebra/environment.yml
+
+#### Activate
+> conda activate linear_algebra
+
+#### Start Jupyter
+> jupyter notebook
+
+
+
+
+### basic conda environment for NLP-BERT of Hugging Face Transformers
+
+
+#### Create
+> conda env create -f nlp_bert/environment.yml
+
+#### Activate
+> conda activate nlp_bert
+
+#### Start Jupyter
+> jupyter notebook
+
+
+
+
+### basic conda environment to webscraping
 
 
 #### Create
@@ -25,7 +57,9 @@
 > jupyter notebook
 
 
-### basic environment to use Flask
+
+
+### basic conda environment to use Flask
 
 
 #### Create
