@@ -9,7 +9,7 @@
 > conda activate data
 
 #### Start Jupyter
-> jupyter notebook
+> jupyter lab
 
 
 
@@ -24,7 +24,7 @@
 > conda activate linear_algebra
 
 #### Start Jupyter
-> jupyter notebook
+> jupyter lab
 
 
 
@@ -39,7 +39,7 @@
 > conda activate nlp_bert
 
 #### Start Jupyter
-> jupyter notebook
+> jupyter lab
 
 
 
@@ -54,7 +54,7 @@
 > conda activate scraping
 
 #### Start Jupyter
-> jupyter notebook
+> jupyter lab
 
 
 
