@@ -1,0 +1,19 @@
+name: diffusers
+channels:
+  - pytorch
+  - nvidia
+dependencies:
+  - pip=21.2.2
+  - python=3.8.0
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=11.7
+  - pip:
+    - diffusers[torch]
+    - transformers
+    - scipy
+    - ftfy
+    - accelerate
+    - Pillow
+    - jupyter
+    - pynvml

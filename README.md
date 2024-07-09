@@ -13,6 +13,27 @@
 
 
 
+### basic environment to use Diffusers
+
+#### Create
+> conda env create -f diffusers/environment.yml
+
+#### Activate
+> conda activate diffusers
+
+#### Disable telemetry logging (Linux)
+> export DISABLE_TELEMETRY=YES
+#### Disable telemetry logging (Windows)
+> set DISABLE_TELEMETRY=YES
+
+> conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
+
+
+#### Start Jupyter
+> jupyter notebook
+
+
+
 
 ### basic conda environment for linear algebra
 
