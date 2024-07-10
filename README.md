@@ -26,8 +26,6 @@
 #### Disable telemetry logging (Windows)
 > set DISABLE_TELEMETRY=YES
 
-> conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
-
 
 #### Start Jupyter
 > jupyter notebook
