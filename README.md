@@ -1,4 +1,18 @@
 
+### basic conda environment for text to speech
+
+
+#### Create
+> conda env create -f tts/environment.yml
+
+#### Activate
+> conda activate tts
+
+#### Start Jupyter
+> jupyter lab
+
+
+
 ### basic conda environment to data analysis
 
 
