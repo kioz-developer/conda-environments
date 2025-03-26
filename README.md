@@ -118,3 +118,8 @@ if __name__ == "__main__":
 
 #### Start using Flask
 > flask run --port=5001
+
+
+
+### How to delete an env
+> conda env remove --name tts
