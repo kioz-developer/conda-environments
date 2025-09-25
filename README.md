@@ -1,3 +1,16 @@
+### basic conda environment to machine learning
+
+
+#### Create
+> conda env create -f machine-learning/environment.yml
+
+#### Activate
+> conda activate ml
+
+#### Start Jupyter
+> jupyter lab
+
+
 
 ### basic conda environment for text to speech
 
